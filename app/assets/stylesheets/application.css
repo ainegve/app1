@@ -36,3 +36,10 @@ body {
 .navbar {
 	text-transform: uppercase;
 }
+
+  .carousel-inner > .item > img,
+ .carousel-inner > .item > a > img {
+     display: block;
+     width:100%;
+     height: 950px !important;
+ }
